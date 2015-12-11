@@ -1,0 +1,43 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+h1 {
+    text-align: center;
+}
+
+#box1 {
+    background-color: #6FC5DC;
+    height: 300px;
+}
+
+#box2 {
+    background-color: #B3ED47;
+    height: 300px;
+}
+
+#box3 {
+    background-color: #F9EB5E;
+    height: 300px;
+}
+
+#box4 {
+    background-color: #F38185;
+    height: 300px;
+}
+
+#box5 {
+    background-color: #CC74EA;
+    height: 300px;
+}
+
+#box6 {
+    background-color: #3645EA;
+    height: 300px;
+}
+
+#footer {
+    background-color: #EA3007;
+}

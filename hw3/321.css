@@ -1,0 +1,32 @@
+.menu {
+    max-width: 600px;
+    padding: 10px;
+    background-color: red;
+    position: relative;
+}
+
+ul {
+    list-style-type: none;
+    font-size: 40px;
+}
+
+li {
+    display: inline;
+}
+
+li a {
+    padding: 10px;
+    text-decoration: none;
+}
+
+
+.item {
+    max-width: 100px;
+    height: 200px;
+    background-color: red;
+    position: absolute;
+    top: 540px;
+    left: -20px;
+    width: 300px;
+    height: 300px;
+}
