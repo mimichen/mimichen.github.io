@@ -261,6 +261,10 @@ a:focus {
     padding-bottom: 50px;
 }
 
+#about a {
+    font-size: 30px;
+}
+
 .content-section {
     padding-top: 100px;
 }
